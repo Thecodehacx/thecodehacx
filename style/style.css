@@ -19,6 +19,10 @@
     height: 9rem!important;
     /* box-shadow: 6px 5px 11px 0px rgb(0, 0, 0); */
 }
+
+buttton{
+    text decoration :none;
+};
 .clip-2{
     position: absolute;
     top: 45%;
